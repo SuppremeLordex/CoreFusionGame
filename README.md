@@ -178,10 +178,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 - [ ] **Achievements** - Unlock system for milestones
 - [ ] **Multiplayer** - Real-time competitive mode
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Inspiration:** Suika Game for the core merging mechanics
