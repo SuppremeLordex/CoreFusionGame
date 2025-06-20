@@ -2,7 +2,7 @@
 
 A stunning HTML5 Canvas physics-based puzzle game inspired by Suika Game, featuring neon-themed elemental orbs, advanced particle effects, and immersive ambient music. Built from scratch using vanilla JavaScript with modular architecture.
 
-![Game Screenshot](https://via.placeholder.com/1400x600/1a1a2e/ffd700?text=Core+Fusion%3A+Elemental+Orbs)
+![Core Fusion: Elemental Orbs Gameplay](Screenshot%202025-06-21%20024907.png)
 
 ## 🎮 Game Overview
 
